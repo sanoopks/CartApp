@@ -1,5 +1,0 @@
-[user]
-   name = sanoopks
-   email = sanoopks006@gmail.com
-[credential]
-   helper = store --file ~/.git-credentials
